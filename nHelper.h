@@ -267,7 +267,7 @@ std::vector<int> genHepRange(int min, int max);
 	@return a vector of octagonal numbers from the passed min to the passed
 		max exclusively
 */
-std::vector<int> genHepRange(int min, int max);
+std::vector<int> genOctRange(int min, int max);
 
 ///////////////////////////////////////////////////////////////////////////////
 //                                                                           //
